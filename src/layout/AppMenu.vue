@@ -151,7 +151,7 @@ const model = ref([
             {
                 label: 'Documentation',
                 icon: 'pi pi-fw pi-book',
-                url: 'https://github.com/MarcoHijacker/SmartDrive/blob/main/SmartDrive_doc_IoT_Longo_Tarantino_REV-final.pdf',
+                url: 'https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/WoT-SmartDrive-2023-2024-Docs-Longo-Tarantino/blob/main/SmartDrive_doc_IoT_Longo_Tarantino_REV-def.pdf',
                 target: '_blank'
             },
             // {
@@ -163,13 +163,13 @@ const model = ref([
             {
                 label: 'Front-end Code',
                 icon: 'pi pi-fw pi-code',
-                url: 'https://github.com/MarcoHijacker/SmartDrive-Panel',
+                url: 'https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/WoT-SmartDrive-2023-2024-FrontEnd-Longo-Tarantino',
                 target: '_blank'
             },
             {
                 label: 'Back-end Code',
                 icon: 'pi pi-fw pi-code',
-                url: 'https://github.com/MarcoHijacker/SmartDrive',
+                url: 'https://github.com/UniSalento-IDALab-IoTCourse-2023-2024/WoT-SmartDrive-2023-2024-BackEnd-Longo-Tarantino',
                 target: '_blank'
             },
         ]
